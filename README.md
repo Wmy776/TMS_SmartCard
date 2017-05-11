@@ -1,2 +1,3 @@
 # TMS_SmartCard
 请看中文版Readme好吧...英文版正在做呢...
+或者去看Wiki！！
